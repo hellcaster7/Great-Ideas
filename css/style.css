@@ -703,7 +703,7 @@ body{
 }
 @media (max-width:1198px) {
     .theteam__title::before{
-        display: none;
+         display: none; 
     }
     .theteam__title{
         display: flex;
@@ -727,10 +727,11 @@ body{
     .photo2text,
     .photoonetext,
     .phototwootext{
-        display: none;
+        display: none; 
     }
     .theteam__photo3 p{
         display: none;
+        
     }
     .theteam__photo2 p{
         display: none;
@@ -739,8 +740,9 @@ body{
         display: none;
     }
     .theteam__photo2>div{
-        display: none;
+         display: none;  
     }
+    
     
       
 }
@@ -761,7 +763,7 @@ body{
     }
     .photocard>div{
         margin-bottom: 30px;
-        width: 50%;
+        width: 80%;
     }
     .header__nav{
         justify-content: center;
@@ -790,11 +792,13 @@ body{
     
     
     
+    
 }
 @media  (max-width:767px){
     .photocard__inner{
-        padding: 10px;
+        padding: 40px;
     }
+    
 }
 
 
