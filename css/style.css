@@ -729,6 +729,18 @@ body{
     .phototwootext{
         display: none;
     }
+    .theteam__photo3 p{
+        display: none;
+    }
+    .theteam__photo2 p{
+        display: none;
+    }
+    .theteam__photo1 p{
+        display: none;
+    }
+    .theteam__photo2>div{
+        display: none;
+    }
     
       
 }
@@ -764,6 +776,15 @@ body{
         display: none;
     }
     .works__columns1__nav{
+        display: none;
+    }
+    .photocard__one::after{
+        display: none;
+    }
+    .photocard__two::after{
+        display: none;
+    }
+    .photocard__three::after{
         display: none;
     }
     
