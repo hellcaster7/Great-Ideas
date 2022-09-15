@@ -29,7 +29,7 @@ body{
 }
 .header{
     
-    background-image:  url(../img/desk-bg.png);
+    background-image:  url(../newimg/desk-bg-min.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position:center;
@@ -111,7 +111,7 @@ body{
 }
 .photo-container::before{
     content: '';
-    background: url(../img/fase-pfoto\ .png);
+    background: url(../newimg/fase-pfoto\ -min.png);
     top: 0 ;
     left: 182px ;
     position: absolute;
@@ -123,7 +123,7 @@ body{
  .two{
     position: absolute;
     content: '';
-    background-image: url(../img/Green-photo.png);
+    background-image: url(../newimg/Green-photo-min.png);
     top: 88px;
     left: 370px;
     width: 310px;
@@ -133,7 +133,7 @@ body{
 .three{
     position: absolute;
     content: '';
-    background-image: url(../img/human-photo.png);
+    background-image: url(../newimg/human-photo-min.png);
     top: 170px;
     left: 580px;
     width: 310px;
